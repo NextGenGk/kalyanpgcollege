@@ -8,7 +8,7 @@ export function Hero() {
         alt="Kalyan PG College Bhilai Campus"
         width={1920}
         height={1080}
-        priority="high"
+        fetchPriority="high"
         className="absolute inset-0 w-full h-full object-cover object-center"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-navy via-navy/70 to-navy/30" />
